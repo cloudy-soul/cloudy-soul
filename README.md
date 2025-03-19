@@ -8,6 +8,7 @@
 - 👾experience in frontend development;<br/>
 - ⌨️HTML/CSS;<br/>
 - ⌨️JavaScript;<br/>
+- ⌨️Java;<br/>
 - ⌨️Python;<br/>
 - 💾version control;<br/>
 - 📫 How to reach me: tazout.rime.work@gmail.com <br/>
