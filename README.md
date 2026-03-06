@@ -6,10 +6,11 @@
 
 - 🔭 Software engineering student at Cardiff Met<br/>
 - 👾experience in frontend development;<br/>
-- ⌨️HTML/CSS;<br/>
-- ⌨️JavaScript;<br/>
-- ⌨️Java;<br/>
-- ⌨️Python;<br/>
+- ⌨️Languages: JavaScript, TypeScript, Java, Python, Dart;<br/>
+- ⌨️Frameworks: Angular, Flutter;<br/>
+- ⌨️Frontend: Responsive Web Design, UI/UX Principles;<br/>
+- ⌨️Backend: RESTful APIs, Client–Server Communication;<br/>
+- ⌨️Methodologies: Agile, Scrum;<br/>
 - 💾version control;<br/>
 - 📫 How to reach me: tazout.rime.work@gmail.com <br/>
 
